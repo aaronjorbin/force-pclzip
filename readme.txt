@@ -5,7 +5,7 @@ Donate link: https://github.com/sponsors/aaronjorbin
 Requires at least: 3.0
 Tested up to: 6.4.3
 Requires PHP: 5.2
-Stable tag: 0.1
+Stable tag: 0.1.0
 License: GPLv2+
 
 Force the use of PclZip instead of ZipArchive
