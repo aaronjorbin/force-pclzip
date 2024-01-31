@@ -1,0 +1,36 @@
+{
+    "name": "aaronjorbin/force-pclzip",
+    "description": "WordPress plugin to force using PclZip",
+    "type": "wordpress-plugin",
+	"require-dev": {
+        "yoast/phpunit-polyfills": "^2.0"
+    },
+    "license": "GNU GPL",
+    "authors": [
+        {
+          "name": "Aaron Jorbin",
+          "email": "aaron@jorb.in",
+          "role": "Developer"
+        }
+    ],
+
+    "extra": {
+        "scripts-description": {
+            "test": "Run all tests. Wrapper around npm run test"
+        }
+     },
+    "scripts": {
+        "test": [
+            "@pre-test",
+            "npm run test"
+        ],
+        "pre-test": [
+            "npm install"
+        ]
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}

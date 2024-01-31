@@ -1,0 +1,9 @@
+tests
+composer.json
+composer.lock
+package.json
+package-lock.json
+phpunit.xml.dist
+.gitignore
+.wp-env.json
+.editorconfig
