@@ -1,9 +1,11 @@
-tests
-composer.json
-composer.lock
-package.json
-package-lock.json
-phpunit.xml.dist
-.gitignore
-.wp-env.json
-.editorconfig
+tests export-ignore
+composer.json export-ignore
+composer.lock export-ignore
+package.json export-ignore
+package-lock.json export-ignore
+phpunit.xml.dist export-ignore
+.gitignore export-ignore
+.wp-env.json export-ignore
+.editorconfig export-ignore
+.gitattributes export-ignore
+
