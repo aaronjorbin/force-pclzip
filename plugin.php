@@ -6,6 +6,8 @@
  * Version: 0.1.0
  * Author: Aaron Jorbin
  * Author URI: https://aaron.jorb.in
+ * License: GPL v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Tested up to: 6.4.3
  */
 
