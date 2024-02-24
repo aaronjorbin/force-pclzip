@@ -3,7 +3,7 @@
  * Plugin Name: Force using PclZip
  * Plugin URI: https://github.com/aaronjorbin/force-pclzip
  * Description:  Bypass the use of ZipArchive and force your site to use PclZip.
- * Version: 0.1.0
+ * Version: 0.1.1
  * Author: Aaron Jorbin
  * Author URI: https://aaron.jorb.in
  * License: GPL v2 or later
