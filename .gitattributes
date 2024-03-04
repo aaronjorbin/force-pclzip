@@ -8,3 +8,5 @@ phpunit.xml.dist export-ignore
 .wp-env.json export-ignore
 .editorconfig export-ignore
 .gitattributes export-ignore
+.github export-ignore
+.wordpress-org export-ignore
