@@ -3,7 +3,7 @@ Contributors: jorbin
 Tags: zip
 Donate link: https://github.com/sponsors/aaronjorbin
 Requires at least: 3.0
-Tested up to: 6.4.3
+Tested up to: 6.6
 Requires PHP: 5.2
 Stable tag: 0.1.1
 License: GPLv2+
